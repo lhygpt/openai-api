@@ -1,0 +1,1 @@
+flask==2.0.1 openai==0.10.2 Procfile
